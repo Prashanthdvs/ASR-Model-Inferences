@@ -1,0 +1,10 @@
+transformers==4.26
+soundfile==0.11.0
+jiwer
+gradio==3.12.0
+datasets
+evaluate
+torch==1.13.0
+optimum==1.6.3
+tensorflow==2.9.2
+
